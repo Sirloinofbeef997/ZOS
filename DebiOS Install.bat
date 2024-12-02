@@ -1,4 +1,4 @@
-::DEBIOS INSTALLER (C)2017-2020 TWFVRCZ
+::ZOS INSTALLER (C)2017-2020 TWFVRCZ
 ::ALL RIGHTS RESERVED
 ::YOU CAN MODIFY IT/USE SOME PARTS WITH CREDITS
 
@@ -23,20 +23,20 @@ set debiosjmeno=debios
 set superuserjm=superuser
 
 ::TITLE
-title DebiOS Installation    
+title ZOS Installation    
 
 ::FIRST SCREEN
 echo.
 echo        ______________________________________________________________________________________________________
 echo.      
-echo         DebiOS Installation (v%verzicinka%) - BETA INSTALLATION                                 (part 1 of 5)
+echo         ZOS Installation (v%verzicinka%) - BETA INSTALLATION                                 (part 1 of 5)
 echo        ______________________________________________________________________________________________________
 echo.      
 echo.
-echo        Welcome to the first boot of DebiOS! 
+echo        Welcome to the first boot of ZOS! 
 echo.
 echo        We need to set some settings before you start using it. 
-echo        This setup program will prepare DebiOS to run on your computer.
+echo        This setup program will prepare ZOS to run on your computer.
 echo.
 echo         - Press ENTER to continue
 echo         - Close the window to quit the setup
@@ -54,7 +54,7 @@ echo.
 echo.
 echo.
 echo.
-echo.       DebiOS is still in development. You are now using a public beta. & pause >nul
+echo.       ZOS is still in development. You are now using a public beta. & pause >nul
 
 
 
@@ -69,7 +69,7 @@ set "uzivatel=DebiOS%random%"
 echo.
 echo        ______________________________________________________________________________________________________
 echo.      
-echo         DebiOS Installation (v%verzicinka%) - BETA INSTALLATION                                 (part 2 of 5)
+echo         ZOS Installation (v%verzicinka%) - BETA INSTALLATION                                 (part 2 of 5)
 echo        ______________________________________________________________________________________________________
 echo.      
 echo.
@@ -103,7 +103,7 @@ goto jmenogood
 echo.
 echo        ______________________________________________________________________________________________________
 echo.      
-echo         DebiOS Installation (v%verzicinka%) - BETA INSTALLATION                                 (part 2 of 5)
+echo         ZOS Installation (v%verzicinka%) - BETA INSTALLATION                                 (part 2 of 5)
 echo        ______________________________________________________________________________________________________
 echo.      
 echo.
@@ -145,7 +145,7 @@ cls
 echo.
 echo        ______________________________________________________________________________________________________
 echo.      
-echo         DebiOS Installation (v%verzicinka%) - BETA INSTALLATION                                 (part 2 of 5)
+echo         ZOS Installation (v%verzicinka%) - BETA INSTALLATION                                 (part 2 of 5)
 echo        ______________________________________________________________________________________________________
 echo.      
 echo.
